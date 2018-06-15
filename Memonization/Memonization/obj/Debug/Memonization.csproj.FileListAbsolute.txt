@@ -1,0 +1,6 @@
+D:\3course\C#\Example\Memonization\Memonization\bin\Debug\Memonization.exe.config
+D:\3course\C#\Example\Memonization\Memonization\bin\Debug\Memonization.exe
+D:\3course\C#\Example\Memonization\Memonization\bin\Debug\Memonization.pdb
+D:\3course\C#\Example\Memonization\Memonization\obj\Debug\Memonization.csprojResolveAssemblyReference.cache
+D:\3course\C#\Example\Memonization\Memonization\obj\Debug\Memonization.exe
+D:\3course\C#\Example\Memonization\Memonization\obj\Debug\Memonization.pdb

@@ -1,0 +1,6 @@
+D:\3course\C#\Example\Generotor\Generotor\bin\Debug\Generotor.exe.config
+D:\3course\C#\Example\Generotor\Generotor\obj\Debug\Generotor.csprojResolveAssemblyReference.cache
+D:\3course\C#\Example\Generotor\Generotor\bin\Debug\Generotor.exe
+D:\3course\C#\Example\Generotor\Generotor\bin\Debug\Generotor.pdb
+D:\3course\C#\Example\Generotor\Generotor\obj\Debug\Generotor.exe
+D:\3course\C#\Example\Generotor\Generotor\obj\Debug\Generotor.pdb
