@@ -1,0 +1,6 @@
+D:\3course\C#\Example\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+D:\3course\C#\Example\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\3course\C#\Example\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\3course\C#\Example\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojResolveAssemblyReference.cache
+D:\3course\C#\Example\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\3course\C#\Example\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
