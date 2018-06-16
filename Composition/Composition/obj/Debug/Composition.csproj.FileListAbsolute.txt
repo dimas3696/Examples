@@ -1,0 +1,6 @@
+D:\3course\C#\Example\Composition\Composition\bin\Debug\Composition.exe.config
+D:\3course\C#\Example\Composition\Composition\bin\Debug\Composition.exe
+D:\3course\C#\Example\Composition\Composition\bin\Debug\Composition.pdb
+D:\3course\C#\Example\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
+D:\3course\C#\Example\Composition\Composition\obj\Debug\Composition.exe
+D:\3course\C#\Example\Composition\Composition\obj\Debug\Composition.pdb
